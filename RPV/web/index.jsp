@@ -9,9 +9,12 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Gerenciador de TCC</title>
     </head>
     <body>
-        <h1>Teste 01. RPV</h1>
-    </body>
+        <h1 align="center">Teste 01. RPV</h1>
+    <center>
+        <input type="SUBMIT">
+    </center>
+        </body>
 </html>
