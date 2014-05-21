@@ -1,0 +1,20 @@
+Mai 21, 2014 7:00:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+Mai 21, 2014 7:00:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: init: Global resources are available
+Mai 21, 2014 7:00:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mai 21, 2014 7:00:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mai 21, 2014 7:00:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: install: Installing context configuration at 'file:/C:/Users/MIGUEL~1/AppData/Local/Temp/context2791505221540130263.xml'
+Mai 21, 2014 7:00:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: start: Starting web application '/RPV'
+Mai 21, 2014 7:01:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mai 21, 2014 7:01:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mai 21, 2014 7:02:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'
+Mai 21, 2014 7:02:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Manager: list: Listing contexts for virtual host 'localhost'

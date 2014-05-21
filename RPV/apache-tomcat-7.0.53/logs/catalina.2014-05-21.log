@@ -1,0 +1,32 @@
+Mai 21, 2014 6:58:48 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files (x86)\Java\jdk1.7.0_21\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\VDownloader;.
+Mai 21, 2014 6:58:49 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Mai 21, 2014 6:58:49 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mai 21, 2014 6:58:49 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2382 ms
+Mai 21, 2014 6:58:49 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Mai 21, 2014 6:58:49 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.53
+Mai 21, 2014 6:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Miguel Zinelli\Documents\ES\5 SEMESTRE\RP V\apache-tomcat-7.0.53\webapps\docs
+Mai 21, 2014 6:58:51 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Miguel Zinelli\Documents\ES\5 SEMESTRE\RP V\apache-tomcat-7.0.53\webapps\examples
+Mai 21, 2014 6:58:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Miguel Zinelli\Documents\ES\5 SEMESTRE\RP V\apache-tomcat-7.0.53\webapps\host-manager
+Mai 21, 2014 6:58:53 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Miguel Zinelli\Documents\ES\5 SEMESTRE\RP V\apache-tomcat-7.0.53\webapps\manager
+Mai 21, 2014 6:58:54 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\Miguel Zinelli\Documents\ES\5 SEMESTRE\RP V\apache-tomcat-7.0.53\webapps\ROOT
+Mai 21, 2014 6:58:54 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Mai 21, 2014 6:58:54 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Mai 21, 2014 6:58:54 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5065 ms
+Mai 21, 2014 7:00:24 PM org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Deploying configuration descriptor C:\Users\Miguel Zinelli\Documents\ES\5 SEMESTRE\RP V\apache-tomcat-7.0.53\conf\Catalina\localhost\RPV.xml
+Mai 21, 2014 7:00:24 PM org.apache.catalina.util.LifecycleBase start
+INFO: The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/RPV]] after start() had already been called. The second call will be ignored.
