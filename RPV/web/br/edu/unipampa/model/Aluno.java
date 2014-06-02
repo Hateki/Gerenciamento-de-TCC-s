@@ -4,10 +4,14 @@
  * and open the template in the editor.
  */
 
+package br.edu.unipampa.model;
+
 /**
  *
  * @author Miguel Zinelli
  */
-public class Tcc {
-    
+public class Aluno extends Pessoa {
+
+    private Orientador orientador;
+    private Tcc tcc;
 }

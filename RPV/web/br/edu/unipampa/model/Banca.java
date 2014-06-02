@@ -4,10 +4,18 @@
  * and open the template in the editor.
  */
 
+package br.edu.unipampa.model;
+
 /**
  *
  * @author Miguel Zinelli
  */
-public class Orientador {
+public class Banca {
+    
+    private String integrantes;
+    private Orientador orientador;
+    //private ProfessorExterno professorExterno;
+    //private ProfessorInterno professorInterno;
+    
     
 }

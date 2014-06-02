@@ -4,10 +4,16 @@
  * and open the template in the editor.
  */
 
+package br.edu.unipampa.model;
+
 /**
  *
  * @author Miguel Zinelli
  */
-public class PessoaExterna {
+public class Tcc {
+    
+    private String titulo;
+    private String tema;
+    private Aluno aluno;
     
 }
